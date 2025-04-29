@@ -81,7 +81,7 @@ pip install -r requirements.txt
 2. **Custom interval & PNG**:
 
    ```bash
-   ./sharpest_frame_extractor.py footage.mp4 --interval 2.5 --format png --output best_pngs
+   ./sharpest_frame_extractor.py footage.mp4 --interval 3 --format png --output best_pngs
    ```
 
 3. **Flat mode** (no subfolders):
